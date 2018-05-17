@@ -5,10 +5,10 @@ satisfies:
     - CC1.2
     - CC1.3
     - CC1.4
-    - CC1.5
     - CC3.1
     - CC3.2
     - CC3.3
+    - CC1.5
 majorRevisions:
   - date: Jun 1 2018
     comment: Initial document
